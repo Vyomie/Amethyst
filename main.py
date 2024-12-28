@@ -673,4 +673,4 @@ class Music(commands.Cog):
 
 amethyst.add_cog(Music(amethyst))
             
-amethyst.run('OTM5MTQ3NTM1OTU0NjIwNDY3.GWD4QE.fXxmDhBeJYYsYpXZ4iQDZ_HtHtc9hAgxahOZw8')
+amethyst.run('secret-token')
